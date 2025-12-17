@@ -1,0 +1,1 @@
+# Basic_Neural-Network-for-Seasonal-patterns
